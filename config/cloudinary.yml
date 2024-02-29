@@ -1,0 +1,19 @@
+---
+development:
+  cloud_name: daaziue36
+  api_key: '958295265234868'
+  api_secret: iCG28lbTe0foPIf0Cts4xIhF534
+  enhance_image_tag: true
+  static_file_support: false
+production:
+  cloud_name: daaziue36
+  api_key: '958295265234868'
+  api_secret: iCG28lbTe0foPIf0Cts4xIhF534
+  enhance_image_tag: true
+  static_file_support: true
+test:
+  cloud_name: daaziue36
+  api_key: '958295265234868'
+  api_secret: iCG28lbTe0foPIf0Cts4xIhF534
+  enhance_image_tag: true
+  static_file_support: false
